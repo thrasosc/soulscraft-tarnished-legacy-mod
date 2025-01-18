@@ -1,0 +1,2 @@
+/give @a soulscraft_tarnished_legacy:night_rider_boots
+/give @a soulscraft_tarnished_legacy:night_rider_chestplate
