@@ -12,4 +12,5 @@ public final class SoulsCraftTarnishedLegacyNeoForge {
         SoulsCraftTarnishedLegacy.init();
         EnvExecutor.runInEnv(Dist.CLIENT, () -> SoulsCraftTarnishedLegacy::initClient);
     }
+
 }
