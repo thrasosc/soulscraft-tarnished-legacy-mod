@@ -10,7 +10,9 @@ import net.pixeldreamstudios.soulscraft_tarnished_legacy.item.armor.sets.*;
 public class ItemRegistry {
     public static void init() {
 
-        Item.Properties defaultProps = new Item.Properties().durability(390).stacksTo(1).rarity(Rarity.RARE).arch$tab(TabRegistry.SOULS_CRAFT_TAB);
+        Item.Properties defaultProps = new Item.Properties().durability(390).stacksTo(1).arch$tab(TabRegistry.SOULS_CRAFT_TAB);
+        Item.Properties RareProps = new Item.Properties().durability(434).stacksTo(1).rarity(Rarity.RARE).arch$tab(TabRegistry.SOULS_CRAFT_TAB);
+        Item.Properties EpicProps = new Item.Properties().durability(500).stacksTo(1).rarity(Rarity.EPIC).arch$tab(TabRegistry.SOULS_CRAFT_TAB);
 
         SoulsCraftItemRegistry.registerItem(SoulsCraftTarnishedLegacy.MOD_ID, "night_rider_helmet", () -> new NightRiderArmorItem(ArmorItem.Type.HELMET, defaultProps));
         SoulsCraftItemRegistry.registerItem(SoulsCraftTarnishedLegacy.MOD_ID, "night_rider_chestplate", () -> new NightRiderArmorItem(ArmorItem.Type.CHESTPLATE, defaultProps));
