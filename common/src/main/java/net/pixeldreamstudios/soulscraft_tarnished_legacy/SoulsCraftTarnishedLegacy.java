@@ -17,6 +17,6 @@ public final class SoulsCraftTarnishedLegacy {
     }
 
     public static void initClient() {
-        SoulsCraftItemRegistry.initClient(MOD_ID);
+//        SoulsCraftItemRegistry.initClient(MOD_ID);
     }
 }
