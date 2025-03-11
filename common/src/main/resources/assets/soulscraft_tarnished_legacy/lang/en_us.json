@@ -1,2 +1,30 @@
 {
+
+  "category.soulscraft_tarnished_legacy": "Soulscraft: Tarnished Legacy",
+
+  "item.soulscraft_tarnished_legacy.night_rider_helmet": "Night Rider Helmet",
+  "item.soulscraft_tarnished_legacy.night_rider_chestplate": "Night Rider Chestplate",
+  "item.soulscraft_tarnished_legacy.night_rider_leggings": "Night Rider Leggings",
+  "item.soulscraft_tarnished_legacy.night_rider_boots": "Night Rider Boots",
+  "item.soulscraft_tarnished_legacy.blaidd_helmet": "Blaidd Helmet",
+  "item.soulscraft_tarnished_legacy.blaidd_chestplate": "Blaidd Chestplate",
+  "item.soulscraft_tarnished_legacy.blaidd_leggings": "Blaidd Leggings",
+  "item.soulscraft_tarnished_legacy.blaidd_boots": "Blaidd Boots",
+  "item.soulscraft_tarnished_legacy.maliketh_helmet": "Blaidd Helmet",
+  "item.soulscraft_tarnished_legacy.maliketh_chestplate": "Maliketh Chestplate",
+  "item.soulscraft_tarnished_legacy.maliketh_leggings": "Maliketh Leggings",
+  "item.soulscraft_tarnished_legacy.maliketh_boots": "Maliketh Boots",
+  "item.soulscraft_tarnished_legacy.crucible_knight_helmet": "Crucible Knight Helmet",
+  "item.soulscraft_tarnished_legacy.crucible_knight_chestplate": "Crucible Knight Chestplate",
+  "item.soulscraft_tarnished_legacy.crucible_knight_leggings": "Crucible Knight Leggings",
+  "item.soulscraft_tarnished_legacy.crucible_knight_boots": "Crucible Knight Boots",
+  "item.soulscraft_tarnished_legacy.crucible_knight_variant_helmet": "Crucible Knight Variant Helmet",
+  "item.soulscraft_tarnished_legacy.crucible_knight_variant_chestplate": "Crucible Knight Variant Chestplate",
+  "item.soulscraft_tarnished_legacy.crucible_knight_variant_leggings": "Crucible Knight Variant Leggings",
+  "item.soulscraft_tarnished_legacy.crucible_knight_variant_boots": "Crucible Knight Variant Boots",
+  "item.soulscraft_tarnished_legacy.tree_sentinel_helmet": "Tree Sentinel Helmet",
+  "item.soulscraft_tarnished_legacy.tree_sentinel_chestplate": "Tree Sentinel Chestplate",
+  "item.soulscraft_tarnished_legacy.tree_sentinel_leggings": "Tree Sentinel Leggings",
+  "item.soulscraft_tarnished_legacy.tree_sentinel_boots": "Tree Sentinel Boots"
+
 }
